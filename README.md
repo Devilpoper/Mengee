@@ -1,4 +1,4 @@
-Hi, I’m Mengee and i hide my name here
+Hi, I’m Mengee
 
 -Aspiring front-end developer 
 
